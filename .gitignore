@@ -27,5 +27,5 @@ dist-ssr
 # amplify
 node_modules
 .amplify
-amplify_outputs*
-amplifyconfiguration*
+# amplify_outputs* # We need this file for deployment
+# amplifyconfiguration* # We need this file for deployment
